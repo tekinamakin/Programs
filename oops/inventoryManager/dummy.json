@@ -1,0 +1,61 @@
+{
+        "inventory": [
+                {
+                        "rice": [
+                                {
+                                        "Type": "Basmati",
+                                        "Price": 100,
+                                        "weight": 150
+                                },
+                                {
+                                        "Type": "Surati-kolam",
+                                        "Price": 80,
+                                        "weight": 200
+                                },
+                                {
+                                        "Type": "Arborio",
+                                        "Price": 50,
+                                        "weight": 150
+                                }
+                        ]
+                },
+                {
+                        "pulses": [
+                                {
+                                        "Type": "Tur",
+                                        "Price": 45,
+                                        "weight": 250
+                                },
+                                {
+                                        "Type": "Mung bean",
+                                        "Price": 60,
+                                        "weight": 350
+                                },
+                                {
+                                        "Type": "kidney bean",
+                                        "Price": 70,
+                                        "weight": 50
+                                }
+                        ]
+                },
+                {
+                        "wheat": [
+                                {
+                                        "Type": "Emmer wheat",
+                                        "Price": 45,
+                                        "weight": 250
+                                },
+                                {
+                                        "Type": "Macaroni wheat",
+                                        "Price": 45,
+                                        "weight": 250
+                                },
+                                {
+                                        "Type": "Common bread wheat ",
+                                        "Price": 45,
+                                        "weight": 250
+                                }
+                        ]
+                }
+        ]
+}

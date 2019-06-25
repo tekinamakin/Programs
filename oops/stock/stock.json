@@ -1,0 +1,23 @@
+{"stock":[
+{
+        "shareName":"MRF",
+        "numberOfStocks": 5,
+        "stockPrice": 55000},
+
+
+{
+        "shareName":"Eicher",
+        "numberOfStocks":11,
+        "stockPrice":23000},
+
+
+{
+        
+        "shareName":"Bosch",
+        "numberOfStocks":2,
+        "stockPrice":20000}
+
+
+
+
+]}
